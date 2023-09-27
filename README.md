@@ -1,6 +1,6 @@
 # Leetcode Notes
 
-![Leetcode Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsupport.leetcode.com%2Fhc%2Fen-us%2Farticles%2F360011884474-How-do-I-change-my-username-&psig=AOvVaw2mqENDB7PEc7afH-CeZ-mU&ust=1695883414899000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIjjjJeYyoEDFQAAAAAdAAAAABAD)
+![Leetcode Logo](https://theme.zdassets.com/theme_assets/9008406/036323c6afd10392aa5b7e3a2eb7557d17955c81.png)
 
 This repository is a personal space for storing my Leetcode notes and tracking my progress as I prepare for technical interviews. Here, I document my insights, solutions, and strategies for various Leetcode problems. Feel free to explore my journey and use these notes as a reference if you find them helpful.
 
