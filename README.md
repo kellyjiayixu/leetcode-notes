@@ -1,6 +1,6 @@
 # Leetcode Notes
 
-![Leetcode Logo](https://theme.zdassets.com/theme_assets/9008406/036323c6afd10392aa5b7e3a2eb7557d17955c81.png)
+![Leetcode Logo](https://assets.leetcode.com/static_assets/public/webpack_bundles/images/LeetCode_nav.4d940ca72.png)
 
 This repository is a personal space for storing my Leetcode notes and tracking my progress as I prepare for technical interviews. Here, I document my insights, solutions, and strategies for various Leetcode problems. Feel free to explore my journey and use these notes as a reference if you find them helpful.
 
